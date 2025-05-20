@@ -1,6 +1,6 @@
 # Nuestro primer proyecto en HTML
 
-En este documento incluimos las siguientes etuiquetas:
+Este es un ejercicio con la generación 43 de DEV.F, en el master de Frontend con IA. En este documento incluimos las siguientes etuiquetas:
 - main
 - header
 - nav
@@ -9,7 +9,7 @@ En este documento incluimos las siguientes etuiquetas:
 - ol
 - li
 
-Para ver este proyecto tienes que clonar el repositorio comopleto
+Para ver este proyecto tienes que clonar el repositorio completo.
 
 ## Autor
 
