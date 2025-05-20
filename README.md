@@ -9,7 +9,7 @@ Este es un ejercicio con la generación 43 de DEV.F, en el master de Frontend co
 - ol
 - li
 
-Para ver este proyecto tienes que dar click en el siguiente [link](vviguerashd.github.io/G43_portafolio/).
+Para ver este proyecto tienes que dar click en el siguiente [link](https://vviguerashd.github.io/G43_portafolio/).
 
 ## Autor
 
